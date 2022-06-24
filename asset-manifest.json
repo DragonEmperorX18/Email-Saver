@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Email-Saver/static/css/main.1824b995.css",
+    "main.js": "/Email-Saver/static/js/main.f0556a1f.js",
+    "index.html": "/Email-Saver/index.html",
+    "main.1824b995.css.map": "/Email-Saver/static/css/main.1824b995.css.map",
+    "main.f0556a1f.js.map": "/Email-Saver/static/js/main.f0556a1f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1824b995.css",
+    "static/js/main.f0556a1f.js"
+  ]
+}
